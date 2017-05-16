@@ -1,0 +1,25 @@
+AMD RX Vega - release date, price, specs and rumours
+
+An AMD RX Vega card has appeared in the TechPowerUp GPU Database showing relative 1080p performance data against Nvidia's GTX 1080 Ti. And it doesn't look great.
+
+Want to know what the best GPU is right now? Check out our guide to the top graphics cards available today.
+
+First off we ought to point out the relative performance numbers presented in the TPU listing are from an unreleased card, so even if accurate they're potentially taken from an engineering sample rather than a release-ready RX Vega GPU.
+
+The specs listed for the RX Vega card show a base clockspeed of just 1GHz with a boost clock of 1.2GHz. That seems a little low, which could be a sign of it being taken from an early sample, but as it's a brand new architecture it may be that Vega isn't stable being clocked much higher. The current 500-series of cards is only rated to boost up to 1,340MHz with the RX 580.
+
+In terms of the actual core configuration it's the expected 4.096 GCN cores, 256 texture units and 64 ROPs and the memory is listed as 8GB HBM2 running on an aggregated 2,048-bit memory bus.
+
+The actual performance is only presented in relative percentage form according to TPU's 1080p performance summary, but it shows the GTX 1080 being 5% quicker in their benchmark and the GTX 1080 Ti some 27% faster. That's born out by the 9.8TFLOP rating they've given the card too.
+
+As I said though, these are only early numbers, and not actual frame rate benchmark figures either, so I wouldn't be too concerned just yet. There's also the fact this testing may have been carried out on an engineering sample too.
+
+But the excitement is certainly ramping up with the release less than two months away now.
+
+Original story, March 26, 2017: The AMD Vega GPU architecture is the next generation graphics silicon the Radeon-red team are working on for release early this year, with the flagship Radeon RX Vega promising to deliver AMD a graphics card that can finally compete with the very top-end of rival Nvidia’s GPU stack.
+
+AMD have announced the naming scheme for what will probably be the flagship Vega card - the imaginatively-titled Radeon RX Vega. It's likely to be the direct replacement for the R9 Fury cards from the last generation of high-end AMD graphics cards.
+
+In 2016 AMD promised their Polaris graphics cards would bring their Radeon graphics cards back into the game, but while the RX 480 and RX 470 have shown impressive DirectX 12 performance against the mid-range GeForce-shaped competition AMD have yet to release a high-end card to give them genuine 4K gaming.
+
+This is where the AMD Vega GPU architecture comes in, aiming to jump in at the high-end and providing the Radeon faithful with a serious GTX 1080 Ti contender.
