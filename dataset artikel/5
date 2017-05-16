@@ -1,0 +1,15 @@
+AMD Radeon RX Vega ‘is just around the corner’
+
+AMD Vega in notebooks
+
+The most interesting part was covered by Scott Herkelman, a co-founder of BFG-Tech and former general GeForce manager at NVIDIA, currently a vice-president of AMD. His segment was entirely devoted to Vega.
+
+So what did we learn? First off we were told us that Vega will go into notebooks. By decreasing the footprint of the memory by stacking VRAM dies, less space is required and therefore it’s more likely to be adopted by notebook makers. This never happened with Fiji, mostly because of high power requirements, but Vega is not just one graphics card, but a new architecture that will be adopted in various ways, one of them will be mobile Vega. Sadly, we don’t know if this means dedicated graphics cards or just integrated graphics that will go into APUs, but one way or the other, Vega will be present in notebooks. Scott explained that this will allow OEM partners to create “thinner and lighter notebooks, that still pack that punch you need to drive virtual reality or the latest and greatest AAA games” (for me that sounds like a dedicated GPU).
+
+AMD Vega will be available with 4GB and 8GB memory capacity
+
+I think this is the most interesting tidbit from the whole presentation. Herkelman explained that “Vega will use HBM2 that has different capacity stacks”. He then added: “you will see from our board partners different configurations, whether that’s 4 Gig or 8 Gig or those types of memory architectures that will allow you to drive different games and different resolutions based upon what capacity stack they end up using”. That sounds like AIBs will have the option to use single stacks or double stacks of HBM2 memory. So Vega might be available with one or two stacks and that, as you probably know, will affect memory bandwidth, because the more stacks the chip has access to, the higher the bandwidth. But we are yet to see if there will be 2GB HBM2 stacks so that the board partners could still offer 2 stacks with full bandwidth, but only 4GB memory.
+
+Where is Vega?
+
+Mr. Herkelman did not tell us when Vega will launch. He did, however, say that Vega is “just around the corner”, and AMD will share details about new Vega technologies as we get closer to the launch.
