@@ -1,0 +1,129 @@
+AMD Radeon RX Vega GPUs: More details on next-gen GPU architecture expected next week
+What is AMD Vega and when is it coming out? We have a decent idea of both, along with specs and performance info
+
+If 2016 was a good year for PC gaming, then 2017 is about to see the market become a whole lot more competitive, with AMD taking on Nvidia with its brand-new Vega graphics architecture. If you’re looking to buy a new graphics card – or a new PC – this year, here's what you need to know.
+
+Key information
+
+AMD's next-gen high-end graphics architecture to take on Nvidia's GTX 1080
+Will be called RX Vega
+
+Will have new technology including high-bandwidth memory and a new geometry pipeline
+Available in the first half of 2017
+AMD RX VEGA – MORE DETAILS NEXT WEEK?
+The very latest news is pointing to a presentation to investors (and the public online) about AMD's upcoming technologies. These include Vega, Navi (which is their next-next generation of GPU architecture, due in 2018) and an update to the Zen architecture that powers Ryzen, called Zen+. We'll be tuning into the call, which takes place on May 16th at 9PM UK time, and bring you all the latest.
+
+If you want even more launch date info, try this: In the company's most recent earnings call to investors, the AMD CEO Lisa Su stated that RX Vega would launch before the end of June, which will meet the company's promise of a 'first-half-of-the-year launch'. Just. Could that point towards a product reveal at Computex 2017 with a proper launch at the end of the month? We certainly hope so.
+
+WHAT IS AMD RX VEGA?
+Vega is the name AMD is giving to its new range of graphics cards, which are set offer a huge leap forward on the company’s previous efforts. The new GPU combines performance-related developments with efficiency improvements, and it's set to provide AMD with its first high-end challenger to Nvidia for a couple of years. Here’s what we know so far – and what it means for your gaming.
+
+AMD RX VEGA – LATEST SPEC LEAKS AND PERFORMANCE RUMOURS
+AMD Hasn't let anything out of the bag as far as specifications go, although a few accidental leaks here and there give us very small clues about the sort of cards we can expect.
+
+The latest news on Vega is looking very promising indeed, with a specs leak looking like the card that AMD launches will be at least twice as fast as the mid-range AMD Radeon RX 580. A patch for the Linux reveals the news, and was picked up by the hawks over at WCCFTech.
+
+There’s 4096 so-called ‘stream processors’, which do the majority of the grunt work on AMD graphics cards versus the 2304 on the RX 580. Overall performance is rated at 12.5TFLOPS (trillion floating point operations per second; a basic horsepower measurement) versus 5.8 on the RX 580.
+
+In addition, we’re looking at 8GB Of HBM2 (High-Bandwidth Memory) with a super-wide 2048-bit bus.
+
+In short, this will be one heck of a card, but we still don’t know how much power it’s going to consume and therefore how much heat it’s going to produce.
+
+Our best picture of performance right now comes from a sketchy SiSoft Sandra benchmark has appeared online for an as-yet unnamed processor that performs 35% faster than a GTX 1080 in a very specific sort of benchmark, although slightly slower than a GTX 1080 Ti. The benchmarks shows a GPU with 8GB of memory with a super-wide 2,048-bit memory bus, as confirmed by the latest leak above, which points towards the high-bandwidth memory (HBM, see below) that we expected from the new cards.
+
+Second, we can use our own educated guesses based on AMD's recent Radeon Instict GPUs for AI and machine learning workloads.
+
+AMD says that the Instinct MI125 will generate 25 TFLOPS (trillion floating point operations per second) of " half-precision", 16-bit calculations output. For regular "single precision" calculations, which is what's used for graphics processing, expect half that.
+
+
+Related: Best graphics cards to buy in 2017
+
+TFLOPs is the simplest way to compare the power of graphics cards, although there are lots of other factors – such as those explained below – that determine how a GPU will perform in the real world.
+
+Still, a bit of rough maths means that I can estimate that a ~12.5TFLOP Vega card will have at least 4,096 stream processors, 8GB of HBM2 memory and a clock of 1,500MHz or more. That’s a sensible guess – the Fury had 3,584 stream processors clocked to 1,000MHz and 4GB of HBM.
+
+In terms of pubic demos, we've seen AMD running Vega GPUs on both Doom and Star Wars Battlefront, both in 4K at 70+ and 60+ FPS respectively. These give you an idea of what the top-end Vega cards will be able to do, although without further specifications and pricing it's hard to gain any more information from that.
+
+Watch this space, and read below for all the official Vega information we’ve had so far, as well as some more speculation.
+
+WHAT WILL VEGA CARDS BE CALLED?
+The jury's still out on what the cards will be named. It's already public knowledge that 'RX Vega' will be part of the new cards' branding (this differs from the lower-end Polaris architecture, which went with RX 480, 470, etc) but we don't know what sort of model numbers AMD will go for.
+
+AMD VEGA – TECHNOLOGY
+This is where things get technical, but stay with us. Here's your "too long; didn't read" list of the advancements we're expecting.
+
+Refined task distribution for more efficient performance
+Improved power efficiency in less challenging tasks
+Less heat generation in high-end tasks
+Potential for more efficient laptop chips
+More memory on high-end cards with HBM2
+Less unnecessary rendering of 3D objects the player can’t see
+AMD says that Vega will deliver its biggest graphics improvements in five years – and we’re not going to doubt the firm's ambition given the big changes it has made. At its heart, Vega is based on the Graphics Core Next architecture that's been around since 2013, but huge refinement is on show throughout.
+
+The updated architecture is built around what AMD calls its Next-Generation Compute Unit, or NCU. This is formed of individual stream processors, and does the bulk of the work required by the graphics card: collecting tasks, distributing them to correct parts of the card, and managing the workload.
+
+The revised NCU in Vega cards takes from Nvidia Pascal (which powers the company’s latest 10-series cards including the GTX 1080, 1070, 1060 and 1050 Ti) and can now scale its operations per clock cycle; and more operations can now be performed in each clock cycle when compared to older graphics cards.
+
+Those changes will have a significant impact on GPU performance. The improved scaling options mean that Vega can better distribute tasks: if there isn't much to do then some power can be saved, but the card can fully scale up if the system is running a demanding game.
+
+In effect it means that Vega can save power and heat during less-intensive tasks, and be a more efficient performer at the top-end. That bodes well for top-tier gameplay, and it also means there's scope for building smaller, quieter cards for small-form-factor PCs and laptops.This is something AMD has struggled to find success with in the past.
+
+It isn't the only NCU change that's designed to improve task delegation. AMD's older cards packaged their stream processors in larger engines, with workloads divided across a maximum of four engines. Now, though, AMD can divide its workloads over a larger number thanks to a feature called the Intelligent Workload Distributor.
+
+The improved and more efficient NCU also means that Vega cards can run at higher clock speeds – so that they can motor through their tasks at a faster pace. That's one of the key attributes in processing performance. Expect top-end Vega cards to run at around 1,500MHz or 1,600MHz – about level with the best Nvidia Pascal chips, and a huge improvement over the last generation, which topped out at around 1,000MHz.
+
+More evolution
+
+The Vega design brings other crucial improvements too. One of the key changes is a redesigned geometry engine – one of the key bits of hardware inside the graphics card. In Vega it can process twice as many polygons per clock cycle than AMD's previous GPUs.
+
+For games, this means a Vega card can plough through twice as many graphical commands as its predecessor. This is a huge leap forward for delivering smoother and better frame rates in the most demanding titles.
+
+It's a significant move, because geometry processing has been a bottleneck for AMD cards in the past. That's a frustration that AMD will have wanted to eliminate, because it's no good having other parts of the card waiting for instructions because one portion can't keep up.
+
+AMD hasn't just improved the performance of the geometry engine – it's made this part of the core better at cleaning up, too. The firm's new Primitive Shader quickly rids objects and textures that are hidden or unnecessary during gameplay. Plus, there's the Draw Stream Binning Rasterizer, which does the same job in other areas of the card.
+
+Such additions are just as important as the more glamourous parts of the new card: in effect, they mean that Vega's resources can be freed up for more pertinent data, which means tasks can be processed at greater speed – and that games can run with better quality settings.
+
+Many of these technical improvements don't necessarily concentrate on improving Vega's raw horsepower. Instead, AMD's new architecture works on making GCN more efficient, with better task delegation and granular control. That allows Vega to work with more precision: handling high-end tasks with more aplomb while consuming less power overall.
+
+In short, that means Vega will runs games well at higher resolutions and quality settings, and it also means there's potential for lower power consumption, cooler running and less noise. It's an improvement across the board.
+
+High-bandwidth memory
+
+Memory has long been one of the biggest bottlenecks on graphics cards – AMD and Nvidia turned up every year with slightly better speeds and a wider access bus, but the GDDR5 technology and basic principle hadn't developed for a long time.
+
+AMD changed that in 2015 with HBM, or High Bandwidth Memory. This technology changed the fundamental operation of mobile memory: instead of deploying narrow access buses and high clocks, it delivered a far wider bus that could run at a far slower speed.
+
+HBM was great, but it had one big caveat. It could only be built in 1GB modules, with a 4GB peak on any card. With high-end cards now offering 6GB or 8GB of memory – and games running better with those larger amounts – that's a problem.
+
+That's changed with the second generation of High Bandwidth Memory. Each module can now be up to 8GB in size, which basically eliminates the bottleneck of the first generation. The modules can also offer double the bandwidth, so AMD can deliver greater performance from a single module than its top HBM from the previous generation.
+
+AMD hasn't just made those improvements in Vega's memory configuration: new Radeon cards will also feature high bandwidth controllers and cache. Both of these change fundamental memory options – but will need to be properly supported by games developers.
+
+Older graphics memory has only functioned by data fitting into the frame buffer before it's processed by the memory itself, but Vega won't be confined by such restrictions.
+
+
+Instead, Vega can now store data in your PC's main memory, or even an SSD. That, potentially, gives Vega GPUs the ability to move a huge amount of data that isn't limited by the capacity of the GPU's memory – up to a hardly conceivable limit of 512TB.
+
+These changes are important, because there’s only so much progress that can be made with creeping clock speeds and bus widths – especially when bigger demands are always being made of graphics memory. AMD is doing important work here, and HBM2 should be superb – so long as game developers take full advantage of Vega's new technologies.
+
+In an event in February, AMD revealed a few more details about the technology behind Vega:
+
+Top of the list was the branding, with AMD announcing what the new graphics cards would be called: Radeon RX Vega. This name replaces the expected RX 490 or RX 580 names that had been bandied about.
+
+AMD also took the time to go over some of the technologies that Vega cards will have. The High-Bandwidth Cache Controller (HBCC) looks to be one of the most interesting, promising to utilise graphics card memory more efficiently. According to AMD, this will increase game performance by letting developers utilise all graphics memory. In a live demo of Deus Ex: Mankind Divided, AMD compared game performance with HBCC turned on and off. With the technology on, AMD claimed a 50% average FPS improvement and a 100% minimum framerate improvement.
+
+“For gamers, you get more performance while paying less for RAM,” said Raja Koduri, senior VP and chief architect at AMD.
+
+HBCC raises the enticing prospect of cheaper graphics cards with less RAM performing as well as current-generation cards with more memory. We’ll have to wait until the first Vega cards are announced to get an idea of final price, though.
+
+Next up was Rapid Pack Math (RPM), which uses the flexible Next-Generation Compute modules to double compute rates. The example used showed how AMD’s TressFX technology could now generate twice the number of hair strands (550,000 strands per second without RPM; 1,200,000 with RPM). A shot from Tomb Raider showed the results in a real game, with Lara Croft having far more realistic hair.
+
+More interesting are the deals with other companies, with AMD announcing a technology deal with Bethesda, the game studio behind Doom, Dishonored 2 and more. Effectively, the deal will see Bethesda build games for Vulkan the open 3D graphics and compute API, which is built on components of AMD’s Mantle API. Vulkan is set to take on DirectX 12. Of course, AMD's cards are rather quick when it comes to Vulkan, so the Bethesda deal should hand the company a performance advantage in some titles.
+
+Teaming up with LiquidSky, AMD’s Vega is set to power the cloud-based streaming games service, which is promising a high-end gaming PC experience on practically any device.
+
+AMD also announced support for the HTC Vive’s asynchronous projection. This technology is designed to eliminate judder, which can be rather nauseous when wearing a headset, should the GPU fail to deliver the required 90fps.
+
+
+Read more at http://www.trustedreviews.com/news/amd-vega-specs-performance-release-date-technology-explained#k0BcCXlKpqJruqgk.99
