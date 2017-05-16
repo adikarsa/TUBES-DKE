@@ -1,0 +1,19 @@
+AMD showcases main features of Vega
+
+AMD Vega has been showcased in multiple demos at Capsaicin & Cream event.
+
+Main features of Vega demoed at Capsaicin
+
+The main features of Vega include High Bandwidth Cache Controller, Next-Gen Compute Unit, New Programmable Geometry Pipeline and Advanced Pixel Engine. Raja Koduri has spoke a little a little about some of these features.
+
+High-bandwidth Cache Controller
+
+Raja Koduri spoke about High-Bandwidth Cache Controller and how it affects performance in games like Deus Ex Mankind Divided. The first video without HBCC was choppy and had stuttering, while the demo with HBCC was rather smooth. AMD claims that HBCC will increase performance by 50% on average and by 100% minimum framerate.
+
+Rapid Packed Math
+
+Rapid Packed Math will increase the calculations on Vega GPU. The demo was using TressFX benchmark where Vega would offer more than half a million more strands per second. This is available through half-precision (FP16) shaders.
+
+AMD Vega available to millions of users on day launch
+
+Raja spoke about making Vega available to millions of users by introducing Radeon Virtualized Encoding. Together with LiqudSky technology, Vega will be available to millions through the cloud. Technology similar to GeForce Now.
